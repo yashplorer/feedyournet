@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1421" measuredH="935" mockupW="1421" mockupH="935">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1421" h="935" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Feed%20Your%20Net%0Ahttp%3A//feedyour.net</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="50" y="95" w="-1" h="-1" measuredW="194" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%2C%20Facebook%2C%20LinkedIn</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="5" y="81" w="300" h="821" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="15" y="96" w="20" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="259" y="95" w="-1" h="-1" measuredW="31" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="11" y="165" w="285" h="722" measuredW="100" measuredH="426" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact%201%0AI%27m%20a%20notification.%0A%20%0AContact%202%0AYou%20haven%27t%20talked%20to%20me%20in%203%20weeks%0A%20%0AContact%203%0AHi.%20I%27m%20Paul.%0A%20%0ACase%20Sandberg%0AYou%20haven%27t%20gone%202%20days%20without%20calling%20me%20Chase.%0A%20%0ANic%20Cage%0AYou%27ve%20never%20talked%20to%20me.%0A%20%0AShadi%20Barhoumi%0AI%27m%20too%20cool%20for%20school.%0A%20%0A2%20Chainz%0AYou%20only%20talked%20to%20me%20two%20times.</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="315" y="122" w="1091" h="377" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%20Chainz%27%20Latest%20Facebook%20Activity</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="315" y="525" w="1091" h="377" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%20Chainz%27%20Latest%20LinkedIn%20Activity</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="315" y="95" w="-1" h="-1" measuredW="187" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Whats%202%20Chainz%20up%20to%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
